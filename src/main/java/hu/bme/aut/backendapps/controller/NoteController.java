@@ -1,7 +1,7 @@
-package hu.bme.aut.retelab2.controller;
+package hu.bme.aut.backendapps.controller;
 
-import hu.bme.aut.retelab2.domain.Note;
-import hu.bme.aut.retelab2.repository.NoteRepository;
+import hu.bme.aut.backendapps.domain.Note;
+import hu.bme.aut.backendapps.repository.NoteRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

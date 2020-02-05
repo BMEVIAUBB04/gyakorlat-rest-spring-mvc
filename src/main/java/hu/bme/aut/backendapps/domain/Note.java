@@ -1,4 +1,4 @@
-package hu.bme.aut.retelab2.domain;
+package hu.bme.aut.backendapps.domain;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;

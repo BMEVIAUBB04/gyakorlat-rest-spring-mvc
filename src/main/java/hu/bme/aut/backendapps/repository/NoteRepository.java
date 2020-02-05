@@ -1,6 +1,6 @@
-package hu.bme.aut.retelab2.repository;
+package hu.bme.aut.backendapps.repository;
 
-import hu.bme.aut.retelab2.domain.Note;
+import hu.bme.aut.backendapps.domain.Note;
 import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
 

@@ -1,4 +1,4 @@
-package hu.bme.aut.retelab2;
+package hu.bme.aut.backendapps;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
