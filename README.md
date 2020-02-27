@@ -1,7 +1,11 @@
 # REST API fejlesztése Spring MVC technológiával
 
 ## Beugró kérdések
-- 
+- Írd le, hogy a HTTP metódusoknak milyen konvencionális jelentése van a REST API-kban.
+- Készítsd el egy Spring MVC-beli controller metódus vázát, amelyik a /users URL-en fogad GET kérést, és User objektumok listáját adja vissza a törzsben.
+- Ismertess a Spring MVC controllereiben használhatók annotációk közül legalább hármat.
+- Milyen részei vannak egy HTTP kérésnek, amelyek meghatározzák a kérést?
+- Hogyan lehet megadni, hogy egy metódus milyen HTTP státuszkódot generáljon?
 
 A labor során egy apróhirdetési portál backendjét készítjük el, amely REST API-n képes fogadni a kéréseket
 webalkalmazától, mobil apptól vagy akár vastagkliens-alkalmazástól. Kliensalkalmazást azonban most
