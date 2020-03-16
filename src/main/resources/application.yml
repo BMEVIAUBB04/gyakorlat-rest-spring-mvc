@@ -1,8 +1,4 @@
 spring:
-  datasource:
-    url: "jdbc:sqlserver://localhost;database=hatter"
-    username: "sa"
-    password: "sa"
   jpa:
     hibernate:
       ddl-auto: update
@@ -10,7 +6,6 @@ spring:
       hibernate:
         show_sql: true
         format_sql: true
-        dialect: org.hibernate.dialect.SQLServerDialect
     generate-ddl: true
   http:
     encoding:
